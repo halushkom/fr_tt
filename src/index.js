@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import firebase from "firebase";
+/*import firebase from "firebase";
 
 
 firebase.initializeApp({
@@ -15,7 +15,7 @@ firebase.initializeApp({
     messagingSenderId: "80697219394",
     appId: "1:80697219394:web:4aeed570a2d7b859ab50db"
 
-});
+});*/
 ReactDOM.render(
   <React.StrictMode>
     <App />

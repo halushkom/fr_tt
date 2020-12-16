@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0f7708f-21ac-46eb-aea5-dc614e7e492a" name="Default Changelist" comment="" />
+    <list default="true" id="f0f7708f-21ac-46eb-aea5-dc614e7e492a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/authenticated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/firebaseConf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/autpage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/autpage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lQamsRuZFrhN7eoUgESY1Byqr0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607531931735</updated>
       <workItem from="1607531935296" duration="689000" />
-      <workItem from="1607534605075" duration="7894000" />
+      <workItem from="1607534605075" duration="44047000" />
+      <workItem from="1608126538928" duration="2035000" />
     </task>
     <servers />
   </component>

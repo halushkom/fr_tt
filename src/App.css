@@ -1,38 +1,73 @@
-.App {
+.register {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.register__body{
+  width: 370px;
+  height: 350px;
+  margin: 0px auto;
+  border-radius: 35px;
+  border: 1px solid gray;
+  background-color: gray;
+  padding-left: 10px;
+  margin-bottom: 10px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.login__body{
+  width: 370px;
+  height: 270px;
+  margin: 0px auto;
+  border-radius: 35px;
+  border: 1px solid gray;
+  background-color: gray;
+  padding-left: 10px;
+  margin-bottom: 10px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.register__header{
+  margin: 25px 0px 25px 0px;
+}
+.register__titile{
+  margin: 0px 0px 15px 0px;
+}
+.register__row{
   display: flex;
+  padding-bottom: 15px;
+}
+.register__col{
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
 }
+.item-register{
+  margin: 0px 0px 15px 0px;
+}
+.item-register__title{
+  font-size: 20px;
+  letter-spacing: 1.5px;
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.item-register__text{
+  font-size: 15px;
+  border: none;
+  background-color: gray;
+  border-bottom: 2px solid black;
+
+}
+.title{
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  position: relative;
+  text-align: center;
+}
+.button{
+  border-radius: 15px;
+  font-size: 15px;
+  height: 30px;
+  width: 100px;
+
+}
+.register__fotter{
+  position: relative;
+  top: 30px;
 }
